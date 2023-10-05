@@ -9,5 +9,5 @@ I'm just starting out with web technologies and git hub. I am enjoying the journ
 
 
 ## 🛠 Skills
-Java , C , Python 
+Java , C++ , Python 
 
