@@ -1,6 +1,9 @@
 ![zoro](https://github.com/KOAwesome/KOAwesome/assets/99417716/9a2d5012-ee0e-45da-ae2b-f3a76d9d175a)
 
-# 👋 Hey there, I'm Sai Rahul Nallandhighal! 🚀
+# 👋 Hey there, I'm Sai Rahul Nallandhighal! 🚀 
+
+[![Metrics](https://github.com/KOAwesome/KOAwesome/actions/workflows/metrics.yml/badge.svg)](https://github.com/KOAwesome/KOAwesome/actions/workflows/metrics.yml)
+<!--METRICS END-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sairahulnallandhighal/)](https://www.linkedin.com/in/sairahulnallandhighal/)
 [![GitHub Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-gray?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/SaiRahulNallandhighal)](https://github.com/SaiRahulNallandhighal)
@@ -26,7 +29,10 @@ Hyderabad, India (Nov 2020 - Present)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOAwesome&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KOAwesome&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=15&rank=-?,-C,-B,-A" alt="GitHub Profile Trophy" />
+
 </p>
+
 <!---
 ## 🚀 Projects / Open-Source
 
