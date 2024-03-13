@@ -1,118 +1,46 @@
-![zoro](https://github.com/KOAwesome/KOAwesome/assets/99417716/9a2d5012-ee0e-45da-ae2b-f3a76d9d175a)
+<h1 align="center">Hi 👋, I'm Sai Rahul Nallandhighal! 🚀</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-# 👋 Hey there, I'm Sai Rahul Nallandhighal! 🚀 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koawesome&label=Profile%20views&color=0e75b6&style=flat" alt="koawesome" /> </p>
 
-[![Metrics](https://github.com/KOAwesome/KOAwesome/actions/workflows/metrics.yml/badge.svg)](https://github.com/KOAwesome/KOAwesome/actions/workflows/metrics.yml)
-<!--METRICS END-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koawesome" alt="koawesome" /></a> </p>
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=Portfolio&logoColor=white&link=https://koawesome.github.io/myportfolio/index.html)](https://koawesome.github.io/myportfolio/index.html)
-[![Linkedin Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-rahul-nallandhighal/)](https://www.linkedin.com/in/sai-rahul-nallandhighal/)
-[![LeetCode Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-orange?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/mkssps42/)](https://leetcode.com/mkssps42/)
-[![HackerRank Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-green?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mkssps42)](https://www.hackerrank.com/mkssps42)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Welcome to my GitHub profile! I'm a passionate and driven individual with a strong background in Computer Science 💻 and a keen interest in leveraging technology to solve real-world problems and create innovative solutions. 🚀
+- 🌱 I’m currently learning **Blockchain technology**
 
-## 🎓 Education
+- 👯 I’m looking to collaborate on [Blockchain in banking](https://github.com/KOAwesome/Blockchain-in-banking)
 
-- **Malla Reddy Engineering College**: Computer Science IoT, B.Tech (CGPA: 8.3)
-- **Sri Chaitanya Junior College**: MPC, Intermediate Education (Percentage: 93%)
+- 👨‍💻 All of my projects are available at [https://koawesome.github.io/myportfolio/](https://koawesome.github.io/myportfolio/)
 
-## 💼 Experience
+- 📝 I regularly write articles on [https://medium.com/@mkssps42](https://medium.com/@mkssps42)
 
-### 🔭 AIML Analytics | Data Science Intern
-Hyderabad, India (Nov 2020 - Present)
+- 💬 Ask me about **Shell scripting, Java, Gentoo**
 
-- Cleaned data and transformed it to generate visual representations through graphs
-- Designed lightweight webpages using Django for easy data display
-## 📊 GitHub Stats
+- 📫 How to reach me **mkssps42@gmail.com**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOAwesome&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KOAwesome&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=15&rank=-?,-C,-B,-A" alt="GitHub Profile Trophy" />
+- 📄 Know about my experiences [https://koawesome.github.io/myportfolio/resume.html](https://koawesome.github.io/myportfolio/resume.html)
 
+- ⚡ Fun fact **I own more books than I could possibly read in one lifetime.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sai-rahul-nallandhighal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-rahul-nallandhighal" height="30" width="40" /></a>
+<a href="https://medium.com/@mkssps42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mkssps42" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mkssps42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mkssps42" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mkssps42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mkssps42" height="30" width="40" /></a>
 </p>
 
-<!---
-## 🚀 Projects / Open-Source
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-### 📚 College Results WebWeaver | [Link](https://github.com/your-repo/CollegeResultsWebWeaver)
-**Technologies**: Python, Selenium, Openpyxl
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koawesome&show_icons=true&locale=en&layout=compact" alt="koawesome" /></p>
 
-- Gathers data and displays them in the form of an Excel sheet.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koawesome&show_icons=true&locale=en" alt="koawesome" /></p>
 
-### 🕵️ A Novel Web Attack Detection System | [Link](https://github.com/your-repo/WebAttackDetectionSystem)
-**Technologies**: Python, Django
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koawesome&" alt="koawesome" /></p>
 
-- A Python model to detect web attacks. Ensemble Learning is used to divide the data and generate feedback for each case.
-- Ensemble learning is the process of boosting the algorithms.
-
-### 💾 Bad USB Implementation | [Link](https://github.com/your-repo/BadUSBImplementation)
-**Technologies**: Raspberry Pi Pico, CircuitPython
-
-- Developed a custom USB-based attack device using Raspberry Pi Pico.
-- Programmed the Raspberry Pi Pico to emulate a keyboard and execute preconfigured payloads.
-- Demonstrated the potential security vulnerabilities in USB devices and how they can be exploited.
-
-### 💧 Smart Saline Monitoring System | [Link](https://github.com/your-repo/SmartSalineMonitoringSystem)
-**Technologies**: Arduino, HX711, LCD, I2C, GSM
-
-- Developed a weight monitoring system using Arduino & HX711 load cell to measure weight accurately.
-- Used an LCD display for real-time weight visualization and a GSM module to send SMS notifications when weight thresholds are exceeded.
-
-### ❓ Quiz Generator | [Link](https://github.com/your-repo/QuizGenerator)
-**Technologies**: Python-docx, Python3
-
-- Created a program which can generate quizzes from the provided Excel sheet.
-- Both console and GUI support are available, with a feature to remove questions from the Excel sheet if answered correctly.
-
-### 🌡️ Real-Time Temperature and Humidity Monitoring Webserver
-**Technologies**: Raspberry Pi Pico W, DHT11
-
-- Developed a real-time webserver using a Raspberry Pi Pico W microcontroller and a DHT11 temperature and humidity sensor for monitoring environmental conditions.
-- Utilized the DHT11 sensor, a cost-effective digital temperature and humidity sensor, for reliable and accurate measurements with WiFi connectivity for storing data on a server.
-
-## 🏆 Certifications
-
-- NPTEL Online Certification: Data Structures using Java
-- NPTEL Online Certification: Python for Data Science - IIT Madras
-- NPTEL Online Certification: Introduction to Algorithms
-- NPTEL Online Certification: Ethical Hacking - IIT Kharagpur
-- Introduction to Programming using Python - Microsoft Certifications
-- Azure Fundamentals - Microsoft Certifications
--->
-  
-## 🎉 Honors & Awards
-
-- Won inter-college Basketball tournament for 2 consecutive years 🏀
-- Achieved a 5-star rating on the HackerRank platform in Java programming language ⭐️⭐️⭐️⭐️⭐️
-- Installed Gentoo Linux operating system on an obsolete machine, adjusting flags for best performance 🐧
-- Ported a post-market Linux operating system to an Android device (whyred) 📱
-
-<!--
-## 🛠 Skills
-
-### 👨‍💻 Programming Languages
-- 💻 Python
-- ☕ Java
-- 🐚 Shell Scripting
-- 🐘 C
-- ++ C++
-- 📊 R
-
-### 🧰 Libraries/Frameworks
-- NumPy
-- Pandas
-- Seaborn
-- Matplotlib
-- Scikit-learn
-- Flask
-- Django
-- Selenium
-
-### 📂 Databases
-- MySQL
--->
----
-
-
-📧 Email: mkssps42@gmail.com | ☎️ Phone: 8499036028
