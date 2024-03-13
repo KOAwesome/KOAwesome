@@ -5,11 +5,10 @@
 [![Metrics](https://github.com/KOAwesome/KOAwesome/actions/workflows/metrics.yml/badge.svg)](https://github.com/KOAwesome/KOAwesome/actions/workflows/metrics.yml)
 <!--METRICS END-->
 
-[![Linkedin Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sairahulnallandhighal/)](https://www.linkedin.com/in/sairahulnallandhighal/)
-[![GitHub Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-gray?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/SaiRahulNallandhighal)](https://github.com/SaiRahulNallandhighal)
-[![LeetCode Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-orange?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/SaiRahulNallandhighal/)](https://leetcode.com/SaiRahulNallandhighal/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=Portfolio&logoColor=white&link=https://koawesome.github.io/myportfolio/index.html)](https://koawesome.github.io/myportfolio/index.html)
+[![Linkedin Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-rahul-nallandhighal/)](https://www.linkedin.com/in/sai-rahul-nallandhighal/)
+[![LeetCode Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-orange?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/mkssps42/)](https://leetcode.com/mkssps42/)
 [![HackerRank Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-green?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mkssps42)](https://www.hackerrank.com/mkssps42)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=Portfolio&logoColor=white&link=https://sairahulnallandhighal.github.io/)](https://sairahulnallandhighal.github.io/)
 
 Welcome to my GitHub profile! I'm a passionate and driven individual with a strong background in Computer Science 💻 and a keen interest in leveraging technology to solve real-world problems and create innovative solutions. 🚀
 
