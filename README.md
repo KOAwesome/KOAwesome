@@ -22,32 +22,12 @@ Hyderabad, India (Nov 2020 - Present)
 
 - Cleaned data and transformed it to generate visual representations through graphs
 - Designed lightweight webpages using Django for easy data display
+## 📊 GitHub Stats
 
-### 🏢 Hyderabad, India (2018 - 2020)
-
-## 🛠 Skills
-
-### 👨‍💻 Programming Languages
-- 💻 Python
-- ☕ Java
-- 🐚 Shell Scripting
-- 🐘 C
-- ++ C++
-- 📊 R
-
-### 🧰 Libraries/Frameworks
-- NumPy
-- Pandas
-- Seaborn
-- Matplotlib
-- Scikit-learn
-- Flask
-- Django
-- Selenium
-
-### 📂 Databases
-- MySQL
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOAwesome&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<!---
 ## 🚀 Projects / Open-Source
 
 ### 📚 College Results WebWeaver | [Link](https://github.com/your-repo/CollegeResultsWebWeaver)
@@ -94,14 +74,38 @@ Hyderabad, India (Nov 2020 - Present)
 - NPTEL Online Certification: Ethical Hacking - IIT Kharagpur
 - Introduction to Programming using Python - Microsoft Certifications
 - Azure Fundamentals - Microsoft Certifications
-
+-->
 ## 🎉 Honors & Awards
 
 - Won inter-college Basketball tournament for 2 consecutive years 🏀
 - Achieved a 5-star rating on the HackerRank platform in Java programming language ⭐️⭐️⭐️⭐️⭐️
 - Installed Gentoo Linux operating system on an obsolete machine, adjusting flags for best performance 🐧
 - Ported a post-market Linux operating system to an Android device (whyred) 📱
+<!--
+## 🛠 Skills
 
+### 👨‍💻 Programming Languages
+- 💻 Python
+- ☕ Java
+- 🐚 Shell Scripting
+- 🐘 C
+- ++ C++
+- 📊 R
+
+### 🧰 Libraries/Frameworks
+- NumPy
+- Pandas
+- Seaborn
+- Matplotlib
+- Scikit-learn
+- Flask
+- Django
+- Selenium
+
+### 📂 Databases
+- MySQL
+-->
 ---
+
 
 📧 Email: mkssps42@gmail.com | ☎️ Phone: 8499036028
