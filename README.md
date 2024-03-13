@@ -75,12 +75,14 @@ Hyderabad, India (Nov 2020 - Present)
 - Introduction to Programming using Python - Microsoft Certifications
 - Azure Fundamentals - Microsoft Certifications
 -->
+  
 ## 🎉 Honors & Awards
 
 - Won inter-college Basketball tournament for 2 consecutive years 🏀
 - Achieved a 5-star rating on the HackerRank platform in Java programming language ⭐️⭐️⭐️⭐️⭐️
 - Installed Gentoo Linux operating system on an obsolete machine, adjusting flags for best performance 🐧
 - Ported a post-market Linux operating system to an Android device (whyred) 📱
+
 <!--
 ## 🛠 Skills
 
