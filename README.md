@@ -2,8 +2,6 @@
 
 # 👋 Hey there, I'm Sai Rahul Nallandhighal! 🚀 
 
-[![Metrics](https://github.com/KOAwesome/KOAwesome/actions/workflows/metrics.yml/badge.svg)](https://github.com/KOAwesome/KOAwesome/actions/workflows/metrics.yml)
-<!--METRICS END-->
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=Portfolio&logoColor=white&link=https://koawesome.github.io/myportfolio/index.html)](https://koawesome.github.io/myportfolio/index.html)
 [![Linkedin Badge](https://img.shields.io/badge/-SaiRahulNallandhighal-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-rahul-nallandhighal/)](https://www.linkedin.com/in/sai-rahul-nallandhighal/)
