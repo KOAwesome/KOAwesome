@@ -113,4 +113,4 @@ Hyderabad, India (Nov 2020 - Present)
 ---
 
 
-📧 Email: mkssps42@gmail.com | ☎️ Phone: 8499036028
+📧 Email: mkssps42@gmail.com
