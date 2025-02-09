@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate and driven individual with a stro
 
 ## 🎓 Education
 
-- **Malla Reddy Engineering College**: Computer Science IoT, B.Tech (CGPA: 8.3)
+- **Malla Reddy Engineering College**: Computer Science IoT, B.Tech (CGPA: 8.44)
 - **Sri Chaitanya Junior College**: MPC, Intermediate Education (Percentage: 93%)
 
 ## 💼 Experience
