@@ -1,103 +1,75 @@
-![Zoro](https://github.com/KOAwesome/KOAwesome/assets/99417716/9a2d5012-ee0e-45da-ae2b-f3a76d9d175a)
+## Sai Rahul Nallandhighal
 
-# 👋 Hey, I'm Sai Rahul Nallandhighal! 🚀
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=portfolio&logoColor=white)](https://koawesome.github.io/myportfolio/index.html)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-rahul-nallandhighal/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mkssps42/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mkssps42)
+Data Engineer | Cloud & Analytics  
+India
 
 ---
 
-## 💼 About Me
+### 👋 About
 
-I'm a **Software Developer I** at **UST Global**, specialized in **Data Engineering** with a strong foundation in **cloud platforms**, **data pipelines**, and **reporting solutions**. I bring hands-on experience in **ADF**, **Power BI**, **SQL**, and **Azure Synapse**, backed by industry certifications.
+I am a **Software Developer I at UST**, working in **data engineering and analytics**.  
+My work focuses on building **reliable data pipelines**, **data quality frameworks**, and **analytics systems** on cloud platforms.
 
----
-
-## 🚀 Current Focus
-
-- Building scalable **data pipelines** on Azure
-- Automating **data transformation** using **ADF** and **Spark**
-- Integrating **GenAI** with data workflows
-- Preparing dashboards with **Power BI** for real-time insights
-- Actively preparing for the **AWS Data Engineer Associate** exam
+I value **clear thinking, documentation, and reproducible systems**, which is why I maintain my notes and learning in public.
 
 ---
 
-## 🔧 Tech Stack
+### 🔧 Core Skills
 
-**Languages:** Python, Java, SQL, Shell Script  
-**Cloud Platforms:** Azure (ADF, Synapse), AWS (S3, IAM, EC2)  
-**Big Data Tools:** Apache Spark, Databricks  
-**Data Visualization:** Power BI, Matplotlib, Seaborn  
-**Databases:** SQL Server, MySQL  
-**Other Tools:** Git, Aperture Data Studio, Jupyter, Excel
-
----
-
-## 📚 Projects & Solutions
-
-### 🔷 **Data Pipeline on Azure**
-- Built ADF pipelines to ingest, transform, and load large datasets into Azure Synapse.
-- Used Data Flows for cleansing and transformation.
-- Power BI dashboards powered by transformed Synapse tables.
-
-### 🔷 **Power BI + GenAI Dashboard**
-- Created a real-time dashboard in Power BI integrated with GenAI for narrative summaries.
-- Enabled decision-makers to receive AI-generated insights based on incoming data.
-
-### 🔷 **Workflow Automation in ADS**
-- Used Aperture Data Studio for dynamic workflows.
-- Created YAML-based automation for ruleset and job execution.
-
-### 🔷 **College Results WebWeaver**
-[View Repo](https://github.com/your-repo/CollegeResultsWebWeaver)  
-- Extracted and saved exam results into Excel using Selenium and Openpyxl.
-
-### 🔷 **Web Attack Detection System**
-[View Repo](https://github.com/your-repo/WebAttackDetectionSystem)  
-- Built a Python-Django based model using ensemble learning to detect malicious web traffic.
+- **Languages:** Python, SQL, Java  
+- **Data & Big Data:** Apache Spark, PySpark, Databricks  
+- **Cloud:** Azure (ADF, Synapse), AWS (S3, IAM)  
+- **Analytics:** Power BI  
+- **Tools:** Git, Jupyter, Aperture Data Studio
 
 ---
 
-## 🎓 Education
+### 📌 Selected Projects
 
-- **B.Tech in Computer Science (IoT)**  
-  *Malla Reddy Engineering College* — CGPA: 8.44
+> A small set of projects that reflect my current focus.
 
-- **Intermediate (MPC)**  
-  *Sri Chaitanya Junior College* — Percentage: 93%
+- **Market Data Analytics Pipeline**  
+  End-to-end data ingestion and transformation pipeline with analytics-ready outputs.
 
----
+- **GPay Spending Analytics**  
+  Personal finance analysis using Python and Spark to derive spending insights.
 
-## 🏅 Certifications
+- **Local LLM with RAG**  
+  Local GPT-based assistant using retrieval-augmented generation.
 
-- 🟦 **Microsoft Certified: Azure Data Engineer Associate (DP-203)**
-- 🟩 **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🟧 **AWS Certified Cloud Practitioner (CLF-C02)**
-- 🎓 NPTEL: Python for Data Science (IIT Madras)  
-- 🎓 NPTEL: Data Structures using Java  
-- 🎓 NPTEL: Introduction to Algorithms
+- **Wireless Intrusion Detection (ML)**  
+  Machine learning–based detection system for wireless network attacks.
 
----
+- **College Results WebWeaver**  
+  Data extraction and presentation pipeline for academic results.
 
-## 🏆 Honors & Achievements
-
-- 🏀 Winner of inter-college Basketball tournament (2 years)
-- 🌟 5⭐️ rating in Java on HackerRank
-- 🐧 Installed and configured Gentoo Linux on a legacy machine
-- 📱 Ported a post-market Linux OS to Android (Whyred device)
+➡️ Full list: see pinned repositories.
 
 ---
 
-## 📊 GitHub Stats
+### 🧠 Notes & Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOAwesome&layout=compact&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KOAwesome&column=8&theme=radical&no-frame=true&no-bg=true&margin-w=15&rank=-?,-C,-B,-A" />
-</p>
+I maintain a public notes system where I document learning, reflections, and project thinking:
+
+📖 **Notes:** https://koawesome.github.io/notes/
 
 ---
 
-📧 **Email:** mkssps42@gmail.com
+### 🎓 Certifications
+
+- Microsoft Certified: **Azure Data Engineer Associate (DP-203)**
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**
+- **AWS Certified Cloud Practitioner**
+- NPTEL: Python for Data Science, Data Structures, Algorithms
+
+---
+
+### 🔗 Links
+
+- **Portfolio:** https://koawesome.github.io/myportfolio/
+- **LinkedIn:** https://www.linkedin.com/in/sai-rahul-nallandhighal/
+- **LeetCode:** https://leetcode.com/mkssps42/
+
+---
+
+📧 Contact: mkssps42@gmail.com
